@@ -393,8 +393,8 @@ h2 {
   width: 100%; }
 
 .fh5co-recent-work {
-  background: #e90e65;
-  padding: 100px 0; }
+  background: #000216;
+  padding: 100px ; }
   @media (max-width: 767px) {
     .fh5co-recent-work {
       padding-bottom: 0; } }
